@@ -1,6 +1,5 @@
 #!/bin/bash
-PORT= "3333"
-CLIENT= "local host"
+CLIENT = "local host"
 echo "Servidor de EFTP"
 
 echo "(0) Listen"
